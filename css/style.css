@@ -25,3 +25,21 @@
     font-size: 44px;
     margin-left: 44.48px;
 }
+
+.navber-section nav .navber-1 .navber-1-link ul{
+    display: flex;
+    margin-right: 44.48px;
+    gap: 48.88px;
+}
+
+.navber-section nav .navber-1 .navber-1-link ul li{
+    list-style: none;
+}
+
+.navber-section nav .navber-1 .navber-1-link ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 26.48px;
+}
+
+/* ---- NAVBER-1-COMPLETE ---- */
