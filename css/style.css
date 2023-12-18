@@ -1,0 +1,27 @@
+/* ======== HEADER-SECTION-START ======== */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header-section{
+    background-color: whitesmoke;
+}
+
+/* -------- NAVBER-SECTION-START -------- */
+
+/* ---- NAVBER-1-START ---- */
+
+.navber-section nav .navber-1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 8.8vh;
+}
+
+.navber-section nav .navber-1 .logo h1{
+    font-size: 44px;
+    margin-left: 44.48px;
+}
