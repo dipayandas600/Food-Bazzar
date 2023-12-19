@@ -19,16 +19,21 @@
     justify-content: space-between;
     align-items: center;
     height: 8.8vh;
+    max-width: 80vw;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
 }
 
 .navber-section nav .navber-1 .logo h1{
-    font-size: 44px;
-    margin-left: 44.48px;
+    font-size: 26.48px;
+    text-transform: uppercase;
 }
 
 .navber-section nav .navber-1 .navber-1-link ul{
     display: flex;
-    margin-right: 44.48px;
     gap: 48.88px;
 }
 
